@@ -1,0 +1,128 @@
+{
+  "12": {
+    "cluster_id": 12,
+    "junction_name": "BTP082 - KR Market Junction",
+    "mape": 373.8,
+    "points": [
+      {
+        "date": "2024-04-01",
+        "actual": 52,
+        "predicted": 263
+      },
+      {
+        "date": "2024-04-02",
+        "actual": 47,
+        "predicted": 337
+      },
+      {
+        "date": "2024-04-03",
+        "actual": 107,
+        "predicted": 289
+      },
+      {
+        "date": "2024-04-04",
+        "actual": 114,
+        "predicted": 309
+      },
+      {
+        "date": "2024-04-05",
+        "actual": 45,
+        "predicted": 285
+      },
+      {
+        "date": "2024-04-06",
+        "actual": 60,
+        "predicted": 330
+      },
+      {
+        "date": "2024-04-07",
+        "actual": 102,
+        "predicted": 377
+      }
+    ]
+  },
+  "15": {
+    "cluster_id": 15,
+    "junction_name": "No Junction",
+    "mape": 97.1,
+    "points": [
+      {
+        "date": "2024-04-01",
+        "actual": 1006,
+        "predicted": 29
+      },
+      {
+        "date": "2024-04-02",
+        "actual": 1046,
+        "predicted": 26
+      },
+      {
+        "date": "2024-04-03",
+        "actual": 787,
+        "predicted": 21
+      },
+      {
+        "date": "2024-04-04",
+        "actual": 892,
+        "predicted": 27
+      },
+      {
+        "date": "2024-04-05",
+        "actual": 921,
+        "predicted": 28
+      },
+      {
+        "date": "2024-04-06",
+        "actual": 816,
+        "predicted": 31
+      },
+      {
+        "date": "2024-04-07",
+        "actual": 1305,
+        "predicted": 35
+      }
+    ]
+  },
+  "7": {
+    "cluster_id": 7,
+    "junction_name": "BTP027 - Modi Bridge Junction",
+    "mape": 239.8,
+    "points": [
+      {
+        "date": "2024-04-01",
+        "actual": 20,
+        "predicted": 33
+      },
+      {
+        "date": "2024-04-02",
+        "actual": 5,
+        "predicted": 56
+      },
+      {
+        "date": "2024-04-03",
+        "actual": 35,
+        "predicted": 46
+      },
+      {
+        "date": "2024-04-04",
+        "actual": 36,
+        "predicted": 44
+      },
+      {
+        "date": "2024-04-05",
+        "actual": 66,
+        "predicted": 45
+      },
+      {
+        "date": "2024-04-06",
+        "actual": 6,
+        "predicted": 35
+      },
+      {
+        "date": "2024-04-07",
+        "actual": 69,
+        "predicted": 52
+      }
+    ]
+  }
+}

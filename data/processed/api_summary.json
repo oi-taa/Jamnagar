@@ -1,0 +1,20 @@
+{
+  "total_records": 298450,
+  "approved": 115400,
+  "approved_pct": 38.7,
+  "rejected": 49754,
+  "rejected_pct": 16.7,
+  "null_unreviewed": 125254,
+  "null_pct": 42.0,
+  "peak_hour_ist": 10,
+  "peak_day": "Sunday",
+  "top_station": "Upparpet",
+  "top_junction": "BTP051 - Safina Plaza Junction",
+  "top_junction_count": 15449,
+  "chronic_patterns_total": 242,
+  "chronic_patterns_100pct": 4,
+  "total_junctions": 168,
+  "hidden_chokepoints_count": 65,
+  "graph_nodes": 168,
+  "graph_edges": 1892
+}

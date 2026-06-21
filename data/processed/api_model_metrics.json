@@ -1,0 +1,17 @@
+{
+  "pca_explained_variance": [
+    0.417,
+    0.217,
+    0.204,
+    0.149,
+    0.013
+  ],
+  "pca_cumulative_80pct_components": 3,
+  "prophet_avg_mape": 354.6,
+  "prophet_clusters_trained": 20,
+  "isolation_forest_fkdev_flagged": true,
+  "isolation_forest_anomalies_found": 154,
+  "graph_nodes": 168,
+  "graph_edges": 1892,
+  "hidden_chokepoints": 10
+}
