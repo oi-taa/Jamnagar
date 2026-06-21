@@ -1,6 +1,6 @@
 # Jamnagar
 
-Parking Violation Intelligence System for Bengaluru Traffic Police
+AI-powered system that detects illegal parking hotspots, forecasts violation surges, and enables targeted enforcement to reduce traffic congestion in Bengaluru.
 
 ## Setup
 
