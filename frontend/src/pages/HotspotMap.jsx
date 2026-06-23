@@ -293,17 +293,19 @@ export default function HotspotMap({ filters }) {
           </div>
           <span className="sub" style={{ marginLeft: 12 }}>— Pareto concentration confirmed</span>
 
-          <svg width="148" height="90" style={{ marginLeft: 'auto' }}>
-            <line x1="20" y1="70" x2="140" y2="70" stroke="#ffffff" strokeWidth="1" opacity="0.3" />
-            <line x1="20" y1="70" x2="20" y2="10" stroke="#ffffff" strokeWidth="1" opacity="0.3" />
-            <line x1="20" y1="70" x2="140" y2="10" stroke="#ffffff" strokeWidth="1" strokeDasharray="4 2" opacity="0.4" />
-            <polyline
-              points="20,70 40,68 60,64 80,55 100,40 120,22 140,10"
-              fill="none"
-              stroke="#ffe11b"
-              strokeWidth="2"
-            />
-          </svg>
+          <div className="hero-chart" style={{ marginLeft: 'auto' }}>
+            <svg viewBox="0 0 148 90" style={{ width: '100%', height: '100%' }}>
+              <line x1="20" y1="70" x2="140" y2="70" stroke="#ffffff" strokeWidth="1" opacity="0.3" />
+              <line x1="20" y1="70" x2="20" y2="10" stroke="#ffffff" strokeWidth="1" opacity="0.3" />
+              <line x1="20" y1="70" x2="140" y2="10" stroke="#ffffff" strokeWidth="1" strokeDasharray="4 2" opacity="0.4" />
+              <polyline
+                points="20,70 40,68 60,64 80,55 100,40 120,22 140,10"
+                fill="none"
+                stroke="#ffe11b"
+                strokeWidth="2"
+              />
+            </svg>
+          </div>
         </div>
       </div>
 
